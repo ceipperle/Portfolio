@@ -1,0 +1,30 @@
+* {
+    font-family: helvetica;
+}
+h1 {
+    text-align: center;
+}
+button {
+    font-size: 22px;
+    color: green;
+    background-color: rgb(187, 102, 102);
+    text-align: right;
+}
+img {
+    text-align: center;
+    background-color: brown;
+    align-content: center;
+    float: center;
+}
+.sub {
+    font-size: 30px;
+}
+.title {
+    text-align: right;
+    font-size: 60px;
+}
+.photo {
+    border: 7px ridge rgb(187, 102, 102);
+    float: right;
+
+}
